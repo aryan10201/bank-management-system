@@ -1,1 +1,2 @@
-"# bank-management-system" 
+**Bank Management System**
+Developed a user-friendly Bank Management System using C++, employing object-oriented programming principles. Implemented secure file handling techniques to ensure data integrity, storing and retrieving account information in a binary file. Designed an intuitive interface with menu-driven functionality, enabling users to create accounts, perform transactions, and update account details. Demonstrated strong software development skills by incorporating key programming concepts and delivering a robust solution for efficient bank management.
